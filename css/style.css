@@ -1,0 +1,73 @@
+header {
+    background-color: black;
+    color: white;
+    font-size: 1.2em;
+}
+
+footer {
+    background-color: darkgrey;
+    color: black;
+    font-size: 1.2em;
+}
+
+section {
+    background-color: whitesmoke;
+    float: left;
+    width: 45%
+}
+
+img {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
+footer {
+    clear: left;
+}
+
+#section1 {
+    border: 9px solid rgb(3, 3, 3);
+    padding: 10px;
+    margin: 5px;
+}
+
+#section2 {
+    border: 9px solid rgb(3, 3, 3);
+    padding: 10px;
+    margin: 5px;
+}
+
+a {
+    background-color: #0e0d0d;
+    color: white;
+    padding: 15px 26px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover {
+    background-color: blue;
+}
+
+li {
+    display: inline;
+    ;
+    list-style-type: none;
+}
+
+#hiddien1 {
+    padding-left: 100px;
+    margin-left: 50px;
+}
+
+.msg {
+    padding-left: 30px;
+    padding-right: 120px;
+}
+
+#hiddien2 {
+    padding-left: 100px;
+    margin-left: 50px;
+}
